@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a student at Victoria University of Wellington studying Maths and Computer Science.
 
 <!--
 **quiszioce/quiszioce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
